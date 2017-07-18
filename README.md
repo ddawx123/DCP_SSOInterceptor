@@ -1,0 +1,2 @@
+# DCP_SSOInterceptor
+DCP_SSOInterceptor是本人自编自导的小型SSO客户端，用于安装在需要整合登录的站点。
