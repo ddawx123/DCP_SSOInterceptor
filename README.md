@@ -5,7 +5,7 @@ DCP_SSOInterceptor（小丁工作室云平台之SSO拦截器） 是本人自编�
 # Demo列表
 1. - [ ] ZBlogPHP（待完善）
 2. - [ ] ZBlogASP（尚未整理）
-3. - [ ] WordPress（尚未整理）
+3. - [x] WordPress（已开源）
 4. - [ ] Discuz（尚未整理）
 5. - [ ] PHPWind（仍处于闭源状态）
 6. - [ ] FlarumBBS（仍处于闭源状态）

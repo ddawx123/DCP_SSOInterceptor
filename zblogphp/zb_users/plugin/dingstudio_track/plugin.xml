@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>dingstudio_track</id>
+<name>访问追踪</name>
+<url>http://www.dingstudio.cn/</url>
+<note>访问追踪器用于全站链接点击时产生类似阿里巴巴SPM编码的效果，可用于追踪用户访问来源次数等。</note>
+<description>访问追踪器用于全站链接点击时产生类似阿里巴巴SPM编码的效果，可用于追踪用户访问来源、次数等，同时可以在网站举行活动时进行编码特殊化处理。</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>dingstudio</name>
+  <email>ding@dingstudio.cn</email>
+  <url>http://www.dingstudio.cn/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151740</adapted>
+<version>1.0</version>
+<pubdate>2017-06-30</pubdate>
+<modified>2017-06-30</modified>
+<price>0</price>
+<phpver>5.4</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>
